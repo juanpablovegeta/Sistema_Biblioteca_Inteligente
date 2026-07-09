@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "pp",
+        "autor": "jp",
+        "categoria": "prog",
+        "disponible": false
+    },
+    {
+        "id": 1,
+        "titulo": "pp",
+        "autor": "jp",
+        "categoria": "prog",
+        "disponible": true
+    },
+    {
+        "id": 1,
+        "titulo": "pp",
+        "autor": "jp",
+        "categoria": "prog",
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "titulo": "po",
+        "autor": "jp",
+        "categoria": "prog",
+        "disponible": true
+    }
+]
