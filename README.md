@@ -97,7 +97,7 @@ Se utilizan funciones de búsqueda y ordenamiento de Python.
 
 ---
 
-# 🗺️ Mapa de biblioteca con grafos
+#  Mapa de biblioteca con grafos
 
 Se implementó un sistema de navegación mediante grafos.
 
